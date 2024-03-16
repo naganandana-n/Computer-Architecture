@@ -1,4 +1,4 @@
-# Computer Architecture Labs
+# Computer Architecture Lab
 
 ## Note:
 
