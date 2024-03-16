@@ -4,7 +4,7 @@
 
 1. For a reference to the MIPS Instruction Set, you can refer to [MIPS INSTRUCTION SET.pdf](https://github.com/naganandana-n/Computer_Architecture/blob/main/MIPS%20INSTRUCTION%20SET.pdf).
 
-2. The detailed full questions of each lab are included in the files.
+2. The detailed, full questions of each lab are included in the files.
 
 ## LAB 1:
 
