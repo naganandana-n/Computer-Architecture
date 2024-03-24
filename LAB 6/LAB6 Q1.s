@@ -1,7 +1,7 @@
 #PROGRAM TO FIND LENGTH OF STRING IN MEMORY AND DISPLAY TO CONSOLE
 
 .data
-msg: .asciiz "My name is Zubair"
+msg: .asciiz "My name is Naga"
 msg0: .asciiz "Length of string - "
 .text
 main:

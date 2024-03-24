@@ -1,7 +1,7 @@
 #PROGRAM TO REVERSE A STRING AND DISPLAY TO MEMORY
 
 .data
-msg: .asciiz "My name is Zubair"
+msg: .asciiz "My name is Naga"
 msg0: .asciiz "Reversed String - "
 rev_msg: .space 256
 .text

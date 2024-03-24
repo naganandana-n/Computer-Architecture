@@ -2,7 +2,7 @@
 
 .data
 str1: .asciiz "Hello "
-str2: .asciiz "World!!!!"
+str2: .asciiz "Naga"
 str3: .space 256
 msg0: .asciiz "Combined String - "
 .text
