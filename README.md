@@ -6,6 +6,9 @@
 
 2. The detailed, full questions of each lab are included in the files.
 
+3. Run MIPS program's here: (WEBSITE - UPLOAD FILE AND RUN)[https://shawnzhong.github.io/JsSpim/]
+   Credit to (Shawn Zhong)[https://github.com/shawnzhong] for the compiler.
+
 ## LAB 1:
 
 - [Q1: Program to print an integer](https://github.com/naganandana-n/Computer-Architecture/blob/main/LAB%201/LAB1%20Q1.s)
